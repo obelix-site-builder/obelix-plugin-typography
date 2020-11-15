@@ -1,0 +1,22 @@
+{
+  "name": "obelix-plugin-typography",
+  "version": "1.0.1",
+  "description": "A typography.js plugin for the Obelix static site generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obelix-site-builder/obelix-plugin-typography.git"
+  },
+  "author": "Jeremy Dormitzer <jeremy.dormitzer@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/obelix-site-builder/obelix-plugin-typography/issues"
+  },
+  "homepage": "https://github.com/obelix-site-builder/obelix-plugin-typography#readme",
+  "dependencies": {
+    "typography": "^0.16.19"
+  }
+}
