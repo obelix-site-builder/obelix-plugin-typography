@@ -25,6 +25,6 @@ Then in your `obelix.edn` file, configure the plugin:
    :baseLineHeight 1.5
    ;; etc.
    }}}
-``
+```
 
 **Important**: This plugin only generates the typography stylesheet. You still need to add a `<link>` to it in the layouts or pages you want it to be applied to.
